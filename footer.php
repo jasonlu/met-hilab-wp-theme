@@ -1,7 +1,7 @@
 
     <div id="footer" role="contentinfo">
         <div class="container masterplate">
-            <a href="http://www.bu.edu" title="Boston University Homepage"><img src="http://sites.bu.edu/met-hilab/wp-content/themes/flexi-framework/images/boston-university-logo.gif" alt="Boston University Logo"></a>
+            <a href="http://www.bu.edu" title="Boston University Homepage"><img src="<?php echo get_template_directory_uri(); ?>/images/boston-university-logo.gif" alt="Boston University Logo"></a>
 
             <ul>
                 <li><a href="http://www.bu.edu" rel="external">Boston University</a></li>
